@@ -250,7 +250,7 @@ body {
     flex-direction: column;
     position: absolute;
     top: 58.771px;
-    left: 0;
+    right: 0;
     width: 100%;
     background-color: rgba(33, 76, 98, 0.8);
     padding: 10px;
